@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-06-14T05:59:48" hostname="DipeshShome" time="0.01">
+  <properties/>
+  <testcase name="test_is_NOT_triangle_1" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle_4" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_5" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle_6" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_7" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_4" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_5" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
